@@ -29,7 +29,6 @@ I want to:
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
-
 ## Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
