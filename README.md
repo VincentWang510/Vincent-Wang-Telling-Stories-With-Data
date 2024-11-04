@@ -26,7 +26,6 @@ I want to:
 # Portfolio
 
 ## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-![Image of Government Debt Data](GovData.png)
 
 ## Assignment 3&4: [Critique by Design](critique-by-design)
 
