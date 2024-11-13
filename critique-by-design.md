@@ -9,7 +9,7 @@ Origional link to the page and data: https://data.europa.eu/en/publications/data
 I selected this dataset because it initially appeared complex, and I wanted to challenge myself with a more intricate analysis. I was also drawn to the European Union's commitment to five key initiatives aimed at improving Europe, as it highlights the need for multilateral cooperation among all member states—a concept I find particularly compelling-since working together in 2024 does not seem to be a common trend within the United States. What also stood out to me was how progressive these five policies are. They focus on creating a more socially inclusive Europe, tackling climate change, enhancing digital connectivity, improving transportation through smarter infrastructure, and promoting sustainability across the continent. I'm genuinely inspired by the forward-thinking approach of these European initiatives, especially as I reflect on how much more could be done in these areas in my own country.
 
 ## Step two: the critique
-###Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?   
+### Describe your overall observations about the data visualization here.  What stood out to you?  What did you find worked really well?  What didn't?  What, if anything, would you do differently?   
 
 The first thing that stood out to me is the initial design of the visual. The first though is that 2/3 of the visual overshadowed the last 1/3 of the visual. The designers placed the legend and the large horizontal stacked bar graph in on the top. I understand that the designers wanted the legend and the main stacked bar graph as the graph that jumps out. However, the title states:  "Distribution of EU and National Cohesion Funds Across the 5 Policy Objectives," and the stacked bar graph representing the EU is hidden below everything. I would either move the EU bar graph under the legend and above the main bar graph. This can set a story where you can see the overall distributions of funds within the EU followed by the individual nation's breakdown. 
 
@@ -19,11 +19,14 @@ Additionally, I don't like the design choice to use a similar, darker color to h
 
 Personally, I think the design is aesthetically pleasing as it is simple and easy on my eyes. There are some tweaks to design that I would like to change, but it is good nonetheless. I would say that this graph is complete enough for the viewer to understand the message that the graph is trying to convey, however, I am not sure if this distribution is towards a centralized EU fund or are each country individually funding each policy objective within their country. The visual is truthful, I am sure that if someone wanted to, they could find the dataset used within the visual. I do not expect the EU to skew any data. In terms of engagement, the viewer will need to click on the attached links above the visual to learn more about each policy initiative as the visual itself only provides some contextual hints on each policy initiative. 
 
-###Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? 
+### Who is the primary audience for this tool?  Do you think this visualization is effective for reaching that audience?  Why or why not? 
 
 The primary audience for this tool appears to be policymakers, regional development practitioners, and stakeholders involved in urban planning, economic development, and sustainability initiatives within the European Union. Also, it may be open to the average person who is interested in the EU's policies on economic growth and fostering sustainable development. I think that for policy makers, it is a good tool to to see a country's overall breakdown of the distribution made into each policy initiative. Its very simple and allows for the policy maker to see what policies each country has invested the most in/least in. For a regular viewer The visual itself shows what what unique pattern of policy objectives that each EU nation prioritizes and a short summary of the goals of each policy. I think overall, it does a good job for both audiences, its simple for policy makers to track progress and simple enough for regular people to understand and provides simple context may interests lead the viewer to look up each policy more in depth. 
 
 ## Step three: Sketch a solution
+
+![Sketch1](Assignment 3-4 sketch 1.jpg)
+![Sketch2](Assignment 3-4 sketch 2.jpg)
 
 ## Step four: Test the solution
 
