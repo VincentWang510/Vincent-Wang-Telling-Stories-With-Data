@@ -37,24 +37,79 @@ The basic questions I asked:
 4. Who do you think is the intended audience for this?
 5. Is there anything you would change or do differently?
 
-Results: 
+#### Results: 
 
 Occupation: Engineer 
 1. This graph represents proportion of money from each country that goes into each policy program?
-2. Its telling me that Austria is spending 42% on social policy objectives, 17.3% on greener policy objectives, 35.8% on smarter objectives and 4.9% on closer to citizen objectives. I assume this is the same for each country.
-3. I don't get what the "closer to citizen" policy objective actually means? I want to know how much each country made towards these objectives, like how does Italy almost mirror France in terms of how much money they invested even though France is probably biggger in size and gdp than Italy?
+2. Its telling me that Austria is spending x% on social policy objectives, x% on greener policy objectives, x% on smarter objectives and x% on closer to citizen objectives. I assume this is the same for each country.
+3. I don't get what the "closer to citizen" policy objective actually means? I want to know how much each country made towards these objectives, like how does Italy make the same contribution as France? 
 4. Intended audience is probably someone who is interested in what their country is using their tax money on?
 5. Can you simplify this into like regions of Europe or something? There is no much going on, too much data to process
 
 Occupation: Privacy Consultant
-1. 
+1. Money spent on each initative by certain countries in the EU
+2. EU has 5 different policies, that you color coded. You drew a bar with the percentage breakdown of how much in total for each initiative. Each break has its own color correlated with the policies. I guess this breakdown will happen for each country as well?
+3. First off... I did not know that the EU was doing this... Secondly, why aren't more countries doing this? But on a serious note, will I get to know how much actual money is going in to these programs? Is it 10 Euros? 100,000 Euros?
+4. Intended audience must be someone who is interested in public policy, European politics or government services?
+5. Personally, I would make it more simple why also adding the total amount of money each country spent? Honestly I have no clue how I would do it...
 
 
-Synthesis: 
+#### Synthesis: 
+Based on my two interviews, it’s clear that both individuals grasp the general concept of each EU country investing in five key policy goals. However, the central message of the visual—that the varying levels of investment reflect each country’s unique priorities—didn’t quite come across. While the overarching goals are shared, the differences in funding highlight how each nation prioritizes them differently. Althought it may have been in the title, both of them did not realize the true message.
 
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+I believe the best approach is to redesign the visual with a more narrative-driven focus. I’m considering either showcasing total investments in each policy area by country or focusing on the GDP-to-investment ratio. My interviewees raised a good points: the investment amounts vary because each country has a different-sized economy, which impacts how much they can feasibly invest. Highlighting this relationship could provide deeper insight into the data.
+
 
 ## Step five: build the solution
 
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
+<div class='tableauPlaceholder' id='viz1731535605565' style='position: relative'><noscript><a href='#'><img alt='Top 5 Countries in the EU Leading Investments in Gender Equity Programs Since 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4_17315355705060&#47;Gender&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-4_17315355705060&#47;Gender' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4_17315355705060&#47;Gender&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1731535605565');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<div class='tableauPlaceholder' id='viz1731536000179' style='position: relative'><noscript><a href='#'><img alt='Top 5 Countries in the EU Leading Investments in Biodiversity Programs Since 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4Biodiversity&#47;Biodiversity&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-4Biodiversity&#47;Biodiversity' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4Biodiversity&#47;Biodiversity&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1731536000179');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<div class='tableauPlaceholder' id='viz1731536041432' style='position: relative'><noscript><a href='#'><img alt='Top 5 Countries in the EU Leading Investments in Clean Air Programs Since 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4CleanAir&#47;CleanAir&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-4CleanAir&#47;CleanAir' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4CleanAir&#47;CleanAir&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1731536041432');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+</script>
+
+<div class='tableauPlaceholder' id='viz1731536094688' style='position: relative'><noscript><a href='#'><img alt='Top 5 Countries in the EU Leading Investments in Climate Change Programs Since 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4Climate&#47;Climate&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-4Climate&#47;Climate' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4Climate&#47;Climate&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1731536094688');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+<div class='tableauPlaceholder' id='viz1731536131008' style='position: relative'><noscript><a href='#'><img alt='Top 5 Countries in the EU Leading Investments in Environmental Programs Since 2021 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4Environment&#47;Environment&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Assignment3-4Environment&#47;Environment' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;As&#47;Assignment3-4Environment&#47;Environment&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+<script type='text/javascript'>                    
+  var divElement = document.getElementById('viz1731536131008');                    
+  var vizElement = divElement.getElementsByTagName('object')[0];                    
+  vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+  var scriptElement = document.createElement('script');                    
+  scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+  vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
