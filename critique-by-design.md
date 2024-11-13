@@ -4,7 +4,7 @@
 
 ## Step one: the visualization
 
-Origional link to the page and data: https://data.europa.eu/en/publications/datastories/open-data-enabler-regional-development-and-better-cohesion-europe
+Original link to the page and data: https://data.europa.eu/en/publications/datastories/open-data-enabler-regional-development-and-better-cohesion-europe
 
 I selected this dataset because it initially appeared complex, and I wanted to challenge myself with a more intricate analysis. I was also drawn to the European Union's commitment to five key initiatives aimed at improving Europe, as it highlights the need for multilateral cooperation among all member states—a concept I find particularly compelling-since working together in 2024 does not seem to be a common trend within the United States. What also stood out to me was how progressive these five policies are. They focus on creating a more socially inclusive Europe, tackling climate change, enhancing digital connectivity, improving transportation through smarter infrastructure, and promoting sustainability across the continent. I'm genuinely inspired by the forward-thinking approach of these European initiatives, especially as I reflect on how much more could be done in these areas in my own country.
 
@@ -30,30 +30,25 @@ The primary audience for this tool appears to be policymakers, regional developm
 
 ## Step four: Test the solution
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
+The basic questions I asked: 
+1. Can you tell me what you think this is?
+2. Can you describe to me what this is telling you?
+3. Is there anything you find surprising or confusing?
+4. Who do you think is the intended audience for this?
+5. Is there anything you would change or do differently?
 
 Results: 
 
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
+Occupation: Engineer 
+1. This graph represents proportion of money from each country that goes into each policy program?
+2. Its telling me that Austria is spending 42% on social policy objectives, 17.3% on greener policy objectives, 35.8% on smarter objectives and 4.9% on closer to citizen objectives. I assume this is the same for each country.
+3. I don't get what the "closer to citizen" policy objective actually means? I want to know how much each country made towards these objectives, like how does Italy almost mirror France in terms of how much money they invested even though France is probably biggger in size and gdp than Italy?
+4. Intended audience is probably someone who is interested in what their country is using their tax money on?
+5. Can you simplify this into like regions of Europe or something? There is no much going on, too much data to process
 
+Occupation: Privacy Consultant
+1. 
 
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
 
 Synthesis: 
 
