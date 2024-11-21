@@ -39,9 +39,13 @@ or the second part of my story, I wanted to delve into the why and the reasons t
 
 ## Initial sketches
 ![Sketch 1](Sketch 1.jpg)
+
 ![Sketch 2](Sketch 2.jpg)
+
 ![Sketch 3](Sketch 3.jpg)
+
 ![Sketch 4](Sketch 4.jpg)
+
 ![Sketch 4](Sketch 4.jpg)
 
 
