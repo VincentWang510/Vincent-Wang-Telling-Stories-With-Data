@@ -35,12 +35,15 @@ or the second part of my story, I wanted to delve into the why and the reasons t
 * Conclusion/Summarize  
  
 # Story Arc Sketch 
-
+![Story Arc](Project 1 Story Arc.jpg)
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+![Sketch 1](Sketch 1.jpg)
+![Sketch 2](Sketch 2.jpg)
+![Sketch 3](Sketch 3.jpg)
+![Sketch 4](Sketch 4.jpg)
+![Sketch 4](Sketch 4.jpg)
 
-Text here...
 
 # The data
 I have created a table below that list the data sources I will use for this project. If I utilize any additional data, I will note it. 
