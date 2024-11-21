@@ -31,8 +31,11 @@ or the second part of my story, I wanted to delve into the why and the reasons t
   * Get people out to vote!
   * Build more afforable housing
   * Improve cost of living
+  * Create programs that uplift or assist people in poverty
 * Conclusion/Summarize  
  
+# Story Arc Sketch 
+
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -40,11 +43,9 @@ or the second part of my story, I wanted to delve into the why and the reasons t
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data.
->
-> https://www.forbes.com/advisor/mortgages/cost-of-living-by-state/
+I have created a table below that list the data sources I will use for this project. If I utilize any additional data, I will note it. 
 
-Text here...
+The sources I have obtain include crime data from the Justice Department of CA, the FBI, the U.S. Bureau of Economic Analysis, the Federal Reserve Bank of St Louis, DataUSA.IO, and the Legislative Analyst's Office of CA. These sources provides me with data from reputable economic and governmental agencies that allow me to tell a story that is truthful. Open Justice CA gives the crime statistics that stretch over 10 years. This will allow me to see the crime trends in CA and to point out outliers. Like the data from Open Justice CA, the FBI crime data also gives me data to understand the trends of crime in the United States. This would allow me to compare CA and the U.S. average. The U.S. Bureau of Economic Analysis GDP By State dataset will allow me to set a narrative place that although California is an economic powerhouse, its a good portion of it's residences don't reap the benefits. To stengthen this narrative, I will use the data sets from the Federal Reserve dataset, DataUSA and Legislative Analyst’s Office of California to create visuals to highlight the disparities of wealth and employment within the state. I will the other Federal Reserve data set to track the growth of the population with the growth of the crime rate. I might try to find a dataset on the cost of living trend to further push the narrative that crime is an economic issue as well. 
 
 | Name | URL | Description |
 |------|-----|-------------|
