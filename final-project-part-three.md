@@ -1,31 +1,25 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+| [home page](https://vincentwang510.github.io/Vincent-Wang-Telling-Stories-With-Data/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # The final data story
-> Include a link to your final data story on Shorthand, Esri StoryMaps, etc. here. 
-
-Text here!
+[My Final Data Story](https://preview.shorthand.com/Q4S0F61PosZXE0Ev)
 
 # Changes made since Part II
-> Include few paragraphs that reflects on changes you made since the completion of Part II. 
+Since part 2, I have made some drastic changes. The first change that I made was how I was defining what crime was in my presentation. One of my interviewees mentioned that they did not understand what violent crimes or larceny-theft meant thus I wanted to make it as clear as possible. Before making and physical changes, I came to the realization that the crime data set for California had "property crime" as a category, thus to keep everything consistent I made sure that all my data focused on violent crime and property crimes. Nextly, I created a slide after my introduction to help the audience understand what each category encompasses. Using definitions sourced from the FBI, I constructed a table for each category and what crimes fell under each category respectively. 
 
-Text here!
+In terms of visuals, orgionally I a lot of different graphs that I used to construct a comparison narrative, however my interviewees confimred my fears that the design ideology seemed bad. It was bad because I wanted the graphs to be compared but they were not side-by-side, it was more of a top down, which made the viewer move their eyes more. Thus, for the American crime data set, I combined both data sets into one excel csv sheet and created a single graph that displayed a downward trend for the American crime rate. This idea was also utilized in the graph about the crime rate in California after Propostion 47. I combined both datasets into one single data set to make a single graph. I think it just looks better this way. In this graph, I also added a reference line at the year 2014 to mark the passing of Proposition 47. 
+
+In terms of making the flow of the story better, I moved the "American Response to: Is there more crime in the U.S. than there was a year ago, or less? (Percentage of Responses)" graph to the top left because I recalled a study that concluded that viewers tend to look at the top left first. This grpah was the most important for the narrative of the story. I also reduced the word amount in the first slide that explained Proposition 47 as I felt that it was too wordy for most viewers, and that there was some repetition in the sentences. This made it easier for the viewer to follow. 
+
+I completely redesigned my call to action after thinking about my audience. Initially, the goal of this project was to create a story that influenced the way politicans would tackle the problem of crime. However, it seemed very broad and I did not like the direction after reading the comments from my interviews. Instead, I redirected the narrative to discuss the complexities of effective policy making and used crimes as an example. this resulted in me building a story about crime trends in America not reflecting in what Americans felt about crime. This then led to me discussing a specific policy that was previously passed in California, how it worked and did not work, and how Californians decided to fix the issues. Then, I focused on the main cause of the difference in the data and attidude on crimes. The call to action reflected this entire story. I believe that asking people to "Understand that creating effective public policy is hard. We should still keep trying to solve problems!" is an effective message to get across. I also asked people to do research and not use social media as their only input on worldly events. I was advised by Chris to include a link to a trusted, nonpartisan soruce, which I thought was an excellent idea. 
+
+Looking back at Part 1, I think I was so lost when I was designing the sketches and trying to build my narrative. I do not think any of the ideas that were created in Part 1 was good at all. I did not really dive into the data nor did I fully think about the story I was going to write. I did not use any of my designs that I sketched. 
 
 ## The audience
-> Talk about who you identified as the audience for your final data story.  Include any other information you've used that helped you narrow the focus (e.g. insights from your interviews, personas, etc.).  Note any specific adjustments you made to your final project to make it work for your audience.
+As stated in the previous section, I made some significant changes on what my audience should be for my story. Origionally it was policy makers, but the audience of the final product is Gen-Z voters. As an early Gen-Z, I come to accept that my generation is really bad at discerning misinformation. Looking through social media, I recall myself getting upset over certain topics such as crime. I recall watching Instagram reels that were recordings of shoplifters with garbage bags stealing various products in stores. Just like me, other people were seeing this and my generation is the biggest consumer of this form of content. What differentiates me from other Gen-zers is the fact that I am from a policy background. With this in mind, I specifically selected people that were not in the policy field. I used reputable data sources and research from relevant organizations when proposing my call to action. I also relied heavily on ethos and logos to establish credibility. I hoped I created a convincing story where what we see on social media does not reflect real life. 
 
-Text here!
-
-## Final design decisions
-> You can specifically break out your design decisions here, or include it under *Changes made since Part II* and delete this section. Talk about the design decisions you had to make along the way, and reflect on anything in particular that stands out to you that you learned working through the process.  Include any other information that helps round out your data story. 
-
-Text here!
 
 ## References
-> You should have already included detailed references on your Shorthand story - if so, you can probably skip this section.  Use this section to capture any additional special notes or information necessary.  If you do this, you probably want to include a link from Shorthand to this page. Make sure to double-check that you aren't using copyright material and that you have added / updated any citations or other content that you used to create your data story.  Make sure you have cited external sources correctly. 
-
-Text here!
+Please refer to: [My Final Data Story](https://preview.shorthand.com/Q4S0F61PosZXE0Ev)
 
 # Final thoughts
-> You can summarize any final thoughts / reflections that don't fit well in the previous sections here.  How did it go?  What did you run out of time for, or wish you had a chance to revisit?  What were you most excited about?  Include any final reflections as you think they might help us understand your process.  If you already included such reflections elsewhere, you can delete this section. 
-
-Text here!
+Honestly, I really like how my project turned out. I am sure that there is loads to improve upon. Overall this course has taught me a lot about data storytelling and its process. I’ve enjoyed learning how to use different programs like Tableau (it really sucks...), Shorthand, and Datawrapper. I feel like Tableau sucks as a program? I really wish I had more data as my project was mostly only line graphs, which makes sense since I am work with data over time. Shorthand's format was challenging to work with but the final product turned out better than I thought. I really like this class and how much feedback I got from Chris. 
