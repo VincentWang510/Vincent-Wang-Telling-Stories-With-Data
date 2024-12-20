@@ -1,8 +1,5 @@
 | [home page](https://vincentwang510.github.io/Vincent-Wang-Telling-Stories-With-Data/) | [visualizing debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Title
-Text here!
-
 ## Part one: Working with web-based visualization tools and data
 ![Image of Government Debt Data](GovData.png)
 
